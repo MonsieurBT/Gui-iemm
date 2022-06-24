@@ -1,9 +1,9 @@
 const CONFIG = {
     titleWeb: "Gửi bé",
-    introTitle: 'Công chúa của anhh TRUNG 🥰',
+    introTitle: 'Công chúa của anhh 🥰',
     introDesc: `Mình đã nói chuyện với nhau được một thời gian
-    Không quá dài Hí Hí NY TRUNG
-    Nhưng a tin a đã tìm được người a muốn tìm 
+    Tuy hông quá dài 
+    Nhưng a tin a đã tìm được người a muốn tìm kiếm
     A có điều muốn nói với bé <3`,
     btnIntro: 'Zô luôn ^^',
     title: 'Nếu từ hnay trở đi thế giới của e mệt mỏi quá ',
